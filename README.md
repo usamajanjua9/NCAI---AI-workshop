@@ -103,5 +103,3 @@ Developed as part of the **NCAI – NUST** initiative to train students and prof
 
 
 ---
-
-👉 Do you want me to also add a **“Getting Started” section** with Colab/Jupyter setup instructions so students can immediately try the Python activities?
